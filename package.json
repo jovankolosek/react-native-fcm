@@ -22,7 +22,7 @@
   "name": "react-native-fcm",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evollu/react-native-fcm.git"
+    "url": "git+https://github.com/jovankolosek/react-native-fcm.git"
   },
   "version": "16.2.4"
 }
